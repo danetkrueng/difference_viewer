@@ -1,0 +1,26 @@
+2008-03-15 Saturday 16:08  cannon
+
+	* doc/manual.sxw: Inital import of "manual.sxw" file
+
+2008-03-15 Saturday 13:55  cannon
+
+	* ext_emconf.php, pi1/class.tx_differenceviewer_pi1.php: text and
+	  var correction
+
+2008-02-18 Monday 15:26  cannon
+
+	* ChangeLog, README.txt, close.gif, ext_emconf.php, ext_icon.gif,
+	  ext_localconf.php, ext_tables.php, locallang_db.xml,
+	  doc/wizard_form.dat, doc/wizard_form.html,
+	  pi1/class.tx_differenceviewer_pi1.php, pi1/locallang.xml,
+	  pi1/static/editorcfg.txt (utags: initial): Inital import of
+	  'difference_viewer' directory
+
+2008-02-18 Monday 15:26  cannon
+
+	* ChangeLog, README.txt, close.gif, ext_emconf.php, ext_icon.gif,
+	  ext_localconf.php, ext_tables.php, locallang_db.xml,
+	  doc/wizard_form.dat, doc/wizard_form.html,
+	  pi1/class.tx_differenceviewer_pi1.php, pi1/locallang.xml,
+	  pi1/static/editorcfg.txt: Initial revision
+
